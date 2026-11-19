@@ -54,9 +54,6 @@ trabaja en lo suyo. Eso, en un equipo real, evita el 80 % de los problemas.
 - **+1 punto** si tu pareja te aprueba el PR sin pedirte ningún cambio (diff limpio).
 - **+3 puntos** a la dupla de la ronda 2 que resuelva el conflicto con el ritual completo.
 
-El profe lleva el marcador en `ranking.md` y en la pizarra. Al final del taller se anuncia
-el podio en el chat. Los puntos son honor... y fama eterna en la promo.
-
 ## Créditos
 
 Ejercicio adaptado de dinámicas de colaboración usadas en bootcamps de Data Science
