@@ -1,4 +1,4 @@
 - Usuario GitHub: CataAmariei
 - Año de viaje en el tiempo: 2300
 - Qué te gustaría hacer alli: Ver como ha evolucionado el mundo
-- Qué esperas encontrar: como el cociente intelectual no para de bajar pues muchos deficientes con maquinas superchulas =)
+- Qué esperas encontrar: maquinas superchulas =)
