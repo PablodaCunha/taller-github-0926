@@ -1,4 +1,0 @@
-- Usuario GitHub:
-- Superpoder DS: 
-- Meta del trimestre: 
-- Norma que propondría para el equipo:
